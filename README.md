@@ -9,25 +9,25 @@ A beginner-friendly guide and template for creating a simple Discord bot using D
 
 Table of Contents
 
-Introduction
+- Introduction
 
-Prerequisites
+- Prerequisites
 
-Project Setup
+- Project Setup
 
-Creating Your Discord Bot
+- Creating Your Discord Bot
 
-Bot Code
+- Bot Code
 
-Running Your Bot
+- Running Your Bot
 
-Adding Commands
+- Adding Commands
 
-Project Structure
+- Project Structure
 
-Next Steps
+- Next Steps
 
-Resources
+- Resources
 
 
 
@@ -80,6 +80,7 @@ npm install discord.js dotenv
 
 
 TOKEN=YOUR_BOT_TOKEN_HERE
+
 PREFIX=!
 
 
